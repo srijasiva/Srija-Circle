@@ -23,14 +23,12 @@ Steps
 
 4. **Run the Tests from the Command Prompt**:
 
-   Use the SpecFlow CLI tool (`specflow.exe`) to run your tests from the command prompt. Here are the steps:
-
    - Open the command prompt.
    - Navigate to the root folder of your SpecFlow project.
    - Run the following command to execute your SpecFlow tests:
 
      ```bash
-     specflow.exe run "Path\CircleHealth.csproj" /testExecution:NUnit
+     dotnet test
      ```
 5. **View Test Results**:
 
