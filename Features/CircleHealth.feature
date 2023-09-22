@@ -3,8 +3,8 @@
 For a Given Location and Date, check a consultants availability to make my decision
 
 Background:
-	Given Open the browser
-	When Enter the URL	
+	Given Enter the CircleHealth Web URL	
+	When I click Accept all cookies Button
 	Then I should see the Circle Health Homepage
 
 @ConsultantAvailablity

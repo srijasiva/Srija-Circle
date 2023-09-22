@@ -14,17 +14,11 @@ namespace CircleHealth.StepDefinitions
             this.driver = driver;
         }
 
-        [Given(@"Open the browser")]
-        public void GivenOpenTheBrowser()
-        {
-            
-        }
-
-        [When(@"Enter the URL")]
-        public void WhenEnterTheURL()
+        [Given(@"Enter the CircleHealth Web URL")]
+        public void GivenEnterTheCircleHealthWebURL()
         {
             driver.Url = "https://www.circlehealthgroup.co.uk/";
-            Thread.Sleep(5000);
+            Thread.Sleep(1000);
         }
 
         [Then("I should see the Circle Health Homepage")]
