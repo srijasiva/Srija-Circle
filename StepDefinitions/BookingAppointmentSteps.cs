@@ -19,7 +19,7 @@ namespace BaseProject.StepDefinitions.BookingAppointment
             Assert.True(_bookingAppoinmentPage.VerifyCircleHealthHomepageWindowIsOpened());
         }
 
-        [When(@"I click (.*) button")]
+        [When(@"I click (.*) Button")]
         public void WhenIClickHomepageButton(string homepageButton)
         {
             _bookingAppoinmentPage.ClickHomepageButton(homepageButton);
@@ -28,12 +28,6 @@ namespace BaseProject.StepDefinitions.BookingAppointment
         public void WhenIEnterSearchInSearchbar(string searchText, string search)
         {
             _bookingAppoinmentPage.EnterInSearchBar(searchText, search);
-        }
-
-        [When(@"I click (.*) Button")]
-        public void WhenIClickSearchButton(string searchButton)
-        {
-            _bookingAppoinmentPage.ClickSearchButton(searchButton);
         }
 
         [When(@"I click (.*) in (.*) search Results")]

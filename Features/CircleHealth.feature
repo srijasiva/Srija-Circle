@@ -11,7 +11,7 @@ Background:
 Scenario: To check a consultants availability 	
 	
 	Given I am in CircleHealth Homepage
-	When I click Find a treatment button
+	When I click Find a treatment Button
 	And I enter Knee replacement surgery in Search for a treatment searchbar 
 	And I click Search Button
 	And I click Book an appointment in Knee replacement surgery search Results

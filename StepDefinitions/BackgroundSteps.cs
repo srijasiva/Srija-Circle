@@ -17,8 +17,7 @@ namespace CircleHealth.StepDefinitions
         [Given(@"Enter the CircleHealth Web URL")]
         public void GivenEnterTheCircleHealthWebURL()
         {
-            driver.Url = "https://www.circlehealthgroup.co.uk/";
-            Thread.Sleep(1000);
+            driver.Url = "https://www.circlehealthgroup.co.uk/";            
         }
 
         [Then("I should see the Circle Health Homepage")]
