@@ -122,10 +122,12 @@ C:\Personal\Srija Personal Documents\Circle Health\CircleHealth\obj\Debug\net6.0
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealth\obj\Debug\net6.0\CircleHealth.pdb
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealth\obj\Debug\net6.0\CircleHealth.genruntimeconfig.cache
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealth\obj\Debug\net6.0\ref\CircleHealth.dll
-C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\testhost.exe
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\LivingDoc.Dtos.dll
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\testhost.exe
+C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\testhost.dll
+C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\NUnit3.TestAdapter.dll
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\nunit.engine.dll
@@ -135,8 +137,6 @@ C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\ne
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
-C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\testhost.dll
-C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\CircleHealth.deps.json
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\CircleHealth.runtimeconfig.json
 C:\Personal\Srija Personal Documents\Circle Health\CircleHealthRepo\bin\Debug\net6.0\CircleHealth.dll

@@ -79,10 +79,10 @@ namespace CircleHealth.Features
 #line 5
 #line hidden
 #line 6
- testRunner.Given("Open the browser", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("Enter the CircleHealth Web URL", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 7
- testRunner.When("Enter the URL", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("I click Accept all cookies Button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 8
  testRunner.Then("I should see the Circle Health Homepage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
@@ -125,7 +125,7 @@ this.FeatureBackground();
  testRunner.Given("I am in CircleHealth Homepage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 14
- testRunner.When("I click Find a treatment button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+ testRunner.When("I click Find a treatment Button", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 15
  testRunner.And("I enter Knee replacement surgery in Search for a treatment searchbar", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
